@@ -1,0 +1,10 @@
+﻿[Panel1]
+Coordinates=10,10,55,58
+
+[]
+Coordinates=140,10,59,58
+Visible=True
+
+[painelLivro]
+Coordinates=75,10,55,58
+
